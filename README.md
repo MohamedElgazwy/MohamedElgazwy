@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mohamed Elgazwy
 
-<!--
-**MohamedElgazwy/MohamedElgazwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 مرحبًا، أنا محمد الجازوي، مطور Front-End من مصر.
 
-Here are some ideas to get you started:
+## 🚀 المهارات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, Tailwind CSS, JavaScript
+- HTML5, CSS3, Git & GitHub
+
+## 🧩 المشاريع
+
+- [Portfolio](https://portfolio-omega-vert-79.vercel.app): موقعي الشخصي لعرض أعمالي.
+- [Pizzeria-react](https://pizzeria-react.vercel.app): تطبيق طلب بيتزا بسيط.
+- [Bondi](https://bondi-kappa.vercel.app): قالب موقع باستخدام Bootstrap.
+
+## 📫 تواصل معي
+
+- Email: mohamed@example.com
+- LinkedIn: [linkedin.com/in/mohamedelgazwy](https://linkedin.com/in/mohamedelgazwy)
