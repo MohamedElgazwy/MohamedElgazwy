@@ -1,19 +1,60 @@
-# Mohamed Elgazwy
+<h1 align="center">Hi 👋, I'm Mohamed Elgazwy</h1>
+<p align="center">
+  👨‍💻 Front-End Developer | React & Tailwind Enthusiast | Passionate About Clean UI
+</p>
 
-👋 مرحبًا، أنا محمد الجازوي، مطور Front-End من مصر.
+---
 
-## 🚀 المهارات
+## 🧑‍💻 About Me
 
-- React, Tailwind CSS, JavaScript
-- HTML5, CSS3, Git & GitHub
+- 💼 I'm a passionate Front-End developer focused on building responsive, dynamic web interfaces.
+- 🚀 I love working with **React**, **Tailwind CSS**, and modern JavaScript frameworks.
+- 🎯 Currently improving my skills in **Next.js** and exploring full-stack development.
 
-## 🧩 المشاريع
+---
 
-- [Portfolio](https://portfolio-omega-vert-79.vercel.app): موقعي الشخصي لعرض أعمالي.
-- [Pizzeria-react](https://pizzeria-react.vercel.app): تطبيق طلب بيتزا بسيط.
-- [Bondi](https://bondi-kappa.vercel.app): قالب موقع باستخدام Bootstrap.
+## 🛠️ Tech Stack
 
-## 📫 تواصل معي
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat)
 
-- Email: mohamed@example.com
-- LinkedIn: [linkedin.com/in/mohamedelgazwy](https://linkedin.com/in/mohamedelgazwy)
+---
+
+## 📌 Featured Projects
+
+### 🎨 [Portfolio Website](https://portfolio-omega-vert-79.vercel.app)
+> My personal portfolio showcasing my skills, experience, and projects.
+
+![Portfolio Screenshot](https://github.com/MohamedElgazwy/Portfolio/raw/main/screenshot.png)
+
+---
+
+### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
+> A React-based pizza ordering UI built with TailwindCSS and component-based architecture.
+
+![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
+
+---
+
+### 🌐 [Bondi - Bootstrap Template](https://bondi-kappa.vercel.app)
+> Responsive landing page using Bootstrap 5.
+
+![Bondi Screenshot](https://github.com/MohamedElgazwy/Bondi/raw/main/screenshot.png)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedelgazwy)
+- ✉️ Email: mohamed@example.com
+- 🌐 Portfolio: [portfolio-omega-vert-79.vercel.app](https://portfolio-omega-vert-79.vercel.app)
+
+---
+
+<p align="center">Thanks for visiting! 🚀</p>
