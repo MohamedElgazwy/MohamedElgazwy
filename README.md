@@ -35,7 +35,7 @@
 
 ---
 
-### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
+### 🍕 [Pizzeria React](https://pizzeria-git-main-mohameds-projects-25e6f25c.vercel.app/)
 > A React-based pizza ordering UI built with TailwindCSS and component-based architecture.
 
 ![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
