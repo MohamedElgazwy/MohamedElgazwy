@@ -9,7 +9,7 @@
 
 - 💼 I'm a passionate Front-End developer focused on building responsive, dynamic web interfaces.
 - 🚀 I love working with **React**, **Tailwind CSS**, and modern JavaScript frameworks.
-- 🎯 Currently improving my skills in **Next.js** and exploring full-stack development.
+- 🎯 Currently learning **Next.js** and exploring full-stack concepts.
 
 ---
 
@@ -29,35 +29,35 @@
 ## 📌 Featured Projects
 
 ### 🎨 [Portfolio Website](https://portfolio-omega-vert-79.vercel.app)
-> My personal portfolio showcasing my skills, experience, and projects.
+> My personal portfolio showcasing my skills and work.
 
 ![Portfolio Screenshot](https://github.com/MohamedElgazwy/Portfolio/raw/main/screenshot.png)
 
 ---
 
-### 🍕 [Pizzeria React](https://github.com/MohamedElgazwy/Pizzeria-react)
-> A React-based pizza ordering UI built with TailwindCSS and component-based architecture.
+### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
+> A pizza ordering UI built with React and TailwindCSS.
 
 ![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
 
 ---
 
-### 🎬 [usePopcorn](https://github.com/MohamedElgazwy/usepopcorn)
-> A movie search and rating app using OMDB API, custom hooks and React state management.
+### 🎬 [usePopcorn](https://usepopcorn-eight.vercel.app)
+> A movie search & rating app using the OMDB API and React hooks.
 
 ![usePopcorn Screenshot](https://github.com/MohamedElgazwy/usepopcorn/raw/main/screenshot.png)
 
 ---
 
-### 🌍 [Far Away](https://github.com/MohamedElgazwy/far-away)
-> Simple travel packing list app built with React state and component design.
+### 🌍 [Far Away](https://far-away-eight.vercel.app/)
+> Travel packing list app built using React state and component design.
 
 ![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/main/screenshot.png)
 
 ---
 
-### 🏋️‍♂️ [Workout App](https://github.com/MohamedElgazwy/workout)
-> Basic fitness tracker for managing workouts and exercises using React.
+### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
+> Fitness tracker for managing workouts and sets using React.
 
 ![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
 
@@ -65,9 +65,14 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page)
-- ✉️ Email: almyhwbmhmd26@gmail.com
-- 🌐 Portfolio: [portfolio-omega-vert-79.vercel.app](https://portfolio-omega-vert-79.vercel.app)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat">
+  </a>
+  <a href="almyhwbmhmd26@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat">
+  </a>
+</p>
 
 ---
 
