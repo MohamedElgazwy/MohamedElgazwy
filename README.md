@@ -49,14 +49,14 @@
 
 ---
 
-### 🌍 [Far Away](https://far-away-eight.vercel.app/)
+### 🌍 [Far Away](https://far-away.vercel.app/)
 > Travel packing list app built using React state and component design.
 
 ![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/main/screenshot.png)
 
 ---
 
-### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
+### 🏋️‍♂️ [Workout App](https://Workout.vercel.app)
 > Fitness tracker for managing workouts and sets using React.
 
 ![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
