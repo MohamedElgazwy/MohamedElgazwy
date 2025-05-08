@@ -42,10 +42,24 @@
 
 ---
 
-### 🌐 [Bondi - Bootstrap Template](https://bondi-kappa.vercel.app)
-> Responsive landing page using Bootstrap 5.
+### 🎬 [usePopcorn](https://github.com/MohamedElgazwy/usepopcorn)
+> A movie search and rating app using OMDB API, custom hooks and React state management.
 
-![Bondi Screenshot](https://github.com/MohamedElgazwy/Bondi/raw/main/screenshot.png)
+![usePopcorn Screenshot](https://github.com/MohamedElgazwy/usepopcorn/raw/main/screenshot.png)
+
+---
+
+### 🌍 [Far Away](https://github.com/MohamedElgazwy/far-away)
+> Simple travel packing list app built with React state and component design.
+
+![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/main/screenshot.png)
+
+---
+
+### 🏋️‍♂️ [Workout App](https://github.com/MohamedElgazwy/workout)
+> Basic fitness tracker for managing workouts and exercises using React.
+
+![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
 
 ---
 
