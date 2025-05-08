@@ -65,8 +65,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedelgazwy)
-- ✉️ Email: mohamed@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page)
+- ✉️ Email: almyhwbmhmd26@gmail.com
 - 🌐 Portfolio: [portfolio-omega-vert-79.vercel.app](https://portfolio-omega-vert-79.vercel.app)
 
 ---
