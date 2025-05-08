@@ -56,10 +56,10 @@
 
 ---
 
-### 🏋️‍♂️ [Workout App](https://Workout.vercel.app)
+### 🏋️‍♂️ [Workout App](https://workout.vercel.app)
 > Fitness tracker for managing workouts and sets using React.
 
-![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
+![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/main/screenshot.png)
 
 ---
 
