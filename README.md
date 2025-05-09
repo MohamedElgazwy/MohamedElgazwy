@@ -38,7 +38,7 @@
 ### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
 > A pizza ordering UI built with React and TailwindCSS.
 
-![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
+![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
 
 ---
 
@@ -49,27 +49,27 @@
 
 ---
 
-### 🌍 [Far Away](https://far-away.vercel.app/)
+### 🌍 [Far Away](https://far-away-eight.vercel.app/)
 > Travel packing list app built using React state and component design.
 
 ![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/main/screenshot.png)
 
 ---
 
-### 🏋️‍♂️ [Workout App](https://workout.vercel.app)
+### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
 > Fitness tracker for managing workouts and sets using React.
 
-![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/main/screenshot.png)
+![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedelgazwy" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat">
   </a>
-  <a href="almyhwbmhmd26@gmail.com">
+  <a href="mailto:mohamed@example.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat">
   </a>
 </p>
