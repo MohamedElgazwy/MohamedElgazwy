@@ -59,7 +59,7 @@
 ### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
 > Fitness tracker for managing workouts and sets using React.
 
-![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/main/screenshot.png)
+![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/master/screenshot.png)
 
 ---
 
