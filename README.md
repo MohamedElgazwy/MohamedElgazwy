@@ -38,7 +38,7 @@
 ### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
 > A pizza ordering UI built with React and TailwindCSS.
 
-![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
+![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
 
 ---
 
@@ -59,7 +59,7 @@
 ### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
 > Fitness tracker for managing workouts and sets using React.
 
-![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
+![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/main/screenshot.png)
 
 ---
 
