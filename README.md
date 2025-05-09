@@ -52,7 +52,7 @@
 ### 🌍 [Far Away](https://far-away-eight.vercel.app/)
 > Travel packing list app built using React state and component design.
 
-![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/main/screenshot.png)
+![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/master/screenshot.png)
 
 ---
 
