@@ -66,10 +66,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedelgazwy" target="_blank">
+  <a href="[https://www.linkedin.com/in/mohamedelgazwy](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-pagea)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat">
   </a>
-  <a href="mailto:mohamed@example.com">
+  <a href="almyhwbmhmd26@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat">
   </a>
 </p>
