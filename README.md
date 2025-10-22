@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elgazwy</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Aljazwi</h1>
 <p align="center">
   👨‍💻 Front-End Developer | React & Tailwind Enthusiast | Passionate About Clean UI
 </p>
