@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Elgazwy
+# 👋 Hi, I'm Mohamed Algazwi
 
 💻 **Full Stack JavaScript Developer (MERN)**  
 🚀 **React, Next.js, Node.js, Express, MongoDB**  
