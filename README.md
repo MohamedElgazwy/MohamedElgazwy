@@ -1,80 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mohammed Aljazwi</h1>
-<p align="center">
-  👨‍💻 Front-End Developer | React & Tailwind Enthusiast | Passionate About Clean UI
-</p>
+# 👋 Hi, I'm Mohamed Elgazwy
+
+💻 **Full Stack JavaScript Developer (MERN)**  
+🚀 **React, Next.js, Node.js, Express, MongoDB**  
+👨‍🏫 **Instructor at ETA Platform** | Former Frontend Instructor at ACM Minia University  
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💼 I'm a passionate Front-End developer focused on building responsive, dynamic web interfaces.
-- 🚀 I love working with **React**, **Tailwind CSS**, and modern JavaScript frameworks.
-- 🎯 Currently learning **Next.js** and exploring full-stack concepts.
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat)
+### 💡 About Me
+I’m a passionate **Full Stack MERN Developer** experienced in building scalable and efficient web applications using **React, Next.js, Node.js, and MongoDB**.  
+Currently, I work as an **Instructor at ETA Platform**, where I teach and mentor students to become professional frontend and full-stack developers.  
+I’m always eager to explore new technologies, build real-world projects, and share knowledge with the developer community.
 
 ---
 
-## 📌 Featured Projects
-
-### 🎨 [Portfolio Website](https://portfolio-omega-vert-79.vercel.app)
-> My personal portfolio showcasing my skills and work.
-
-![Portfolio Screenshot](https://github.com/MohamedElgazwy/Portfolio/raw/main/screenshot.png)
-
----
-
-### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
-> A pizza ordering UI built with React and TailwindCSS.
-
-![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
+### 🛠️ Tech Stack
+**Frontend:** React · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3  
+**Backend:** Node.js · Express.js · MongoDB · REST APIs  
+**Tools:** Git · GitHub · Vercel · Netlify · Postman · VS Code · Figma  
+**Core Concepts:** OOP · Data Structures & Algorithms · Problem Solving  
 
 ---
 
-### 🎬 [usePopcorn](https://usepopcorn-eight.vercel.app)
-> A movie search & rating app using the OMDB API and React hooks.
-
-![usePopcorn Screenshot](https://github.com/MohamedElgazwy/usepopcorn/raw/main/screenshot.png)
-
----
-
-### 🌍 [Far Away](https://far-away-eight.vercel.app/)
-> Travel packing list app built using React state and component design.
-
-![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/master/screenshot.png)
+### 🚀 Featured Projects
+- 🧑‍💼 [**Portfolio Website**](https://portfolio-omega-vert-79.vercel.app) — Personal portfolio built with React & Tailwind CSS  
+- 🛍️ [**My Shop**](https://my-shop-nextjs.vercel.app) — Next.js e-commerce app with authentication, cart, and context state management  
+- 🍿 [**usePopcorn**](https://usepopcorn-eight.vercel.app) — Movie explorer app using the OMDB API and local storage  
+- 🌍 [**Far Away**](https://far-away-eight.vercel.app) — Travel packing list app built with React & Tailwind CSS  
+- 🏋️‍♂️ [**Workout Trakker**](https://workout-ashy.vercel.app) — Fitness tracker app with dynamic UI  
+- 🍕 [**Pizzeria React**](https://pizzeria-react.vercel.app/pizzas) — Pizza ordering interface with component-based structure
 
 ---
 
-### 🏋️‍♂️ [Workout App](https://workout-ashy.vercel.app)
-> Fitness tracker for managing workouts and sets using React.
-
-![Workout Screenshot](https://github.com/MohamedElgazwy/Workout/raw/master/screenshot.png)
-
----
-
-## 📫 Connect With Me
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat">
-  </a>
-  <a href="mailto:almyhwbmhmd26@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat">
-  </a>
-</p>
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/)  
+- 🧑‍💻 [GitHub](https://github.com/MohamedElgazwy)  
+- 📧 **almyhwbmhmd26@gmail.com**
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+⭐️ *“Code with purpose, teach with passion, and keep learning every day.”*
