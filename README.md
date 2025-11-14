@@ -1,4 +1,4 @@
-#👋 Hi, I'm Mohamed Aljazwi
+# 👋 Hi, I'm Mohamed Aljazwi
 # 💫 About Me:
 I'm a Full Stack MERN Developer passionate about building modern, scalable, and clean web applications. I specialize in React, Next.js, Node.js, Express, and MongoDB, with strong experience across both frontend and backend development.<br><br>I currently work as an Instructor at ETA Platform, where I teach and mentor students in frontend and full-stack development. Previously, I served as a Frontend Instructor at ACM Minia University, helping students establish a solid foundation in web technologies.<br><br>I'm always learning, improving, and exploring new technologies to deliver better user experiences.
 
